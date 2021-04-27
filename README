@@ -1,0 +1,5 @@
+git remote add origin https://github.com/Rekadety/NBA_Java.git
+git branch -M main
+git push -u origin main
+New Project:
+NBA - class, projecto from Java.
